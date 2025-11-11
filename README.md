@@ -17,3 +17,6 @@ data-analysis/
 └── report/                        # Assignment report
 ```
 
+### Report Link: 
+
+    https://github.com/atique-ahmad-01/data-analysis/blob/main/report/report.md
